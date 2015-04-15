@@ -10,18 +10,18 @@ How does a human being detect platform by code ?
 
 ## Tree
 
-d4dea3a3024002b54f6a0b7575aa1bfaa125f422
+9e68fd1
 
 ```
 $ tree -L 3
-.
 ├── README.md
 ├── darwin
 │   └── 10.10
 │       └── usr
 ├── linux
 │   ├── amazon
-│   │   └── 2014.09
+│   │   ├── 2014.09
+│   │   └── 2015.03
 │   ├── centos
 │   │   ├── 5
 │   │   ├── 6
@@ -30,6 +30,10 @@ $ tree -L 3
 │   │   └── 6
 │   ├── coreos
 │   │   └── stable
+│   ├── redhat
+│   │   └── 7
+│   ├── sles
+│   │   └── 12
 │   ├── tinycore
 │   │   ├── 5
 │   │   └── boot2docker
