@@ -10,16 +10,15 @@ How does a human being detect platform by code ?
 
 ## Tree
 
-9e68fd1
+names based on os-release:ID
 
 ```
-$ tree -L 3
 ├── README.md
 ├── darwin
 │   └── 10.10
 │       └── usr
 ├── linux
-│   ├── amazon
+│   ├── amzn
 │   │   ├── 2014.09
 │   │   └── 2015.03
 │   ├── centos
@@ -30,7 +29,7 @@ $ tree -L 3
 │   │   └── 6
 │   ├── coreos
 │   │   └── stable
-│   ├── redhat
+│   ├── rhel
 │   │   └── 7
 │   ├── sles
 │   │   └── 12
