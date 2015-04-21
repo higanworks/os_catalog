@@ -1,0 +1,11 @@
+NAME=Boot2Docker
+VERSION=1.6.0
+ID=boot2docker
+ID_LIKE=tcl
+VERSION_ID=1.6.0
+PRETTY_NAME="Boot2Docker 1.6.0 (TCL 5.4); master : a270c71 - Thu Apr 16 19:50:36 UTC 2015"
+ANSI_COLOR="1;34"
+HOME_URL="http://boot2docker.io"
+SUPPORT_URL="https://github.com/boot2docker/boot2docker"
+BUG_REPORT_URL="https://github.com/boot2docker/boot2docker/issues"
+
