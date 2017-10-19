@@ -32,7 +32,11 @@ names based on os-release:ID
 │   ├── rhel
 │   │   └── 7
 │   ├── sles
-│   │   └── 12
+│   │   ├── 12
+│   │   ├── 12.1
+│   │   ├── 12.2
+│   │   ├── 12.3
+│   │   └── 15
 │   ├── tinycore
 │   │   ├── 5
 │   │   └── boot2docker
