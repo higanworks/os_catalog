@@ -16,7 +16,6 @@ names based on os-release:ID
 ├── README.md
 ├── darwin
 │   └── 10.10
-│       └── usr
 ├── linux
 │   ├── amzn
 │   │   ├── 2014.09
@@ -29,6 +28,14 @@ names based on os-release:ID
 │   │   └── 6
 │   ├── coreos
 │   │   └── stable
+│   ├── debian
+│   │   ├── 6
+│   │   ├── 7
+│   │   ├── 8
+│   │   └── 9
+│   ├── openSUSE
+│   │   ├── 15
+│   │   └── 42.3
 │   ├── rhel
 │   │   └── 7
 │   ├── sles
@@ -38,18 +45,23 @@ names based on os-release:ID
 │   │   ├── 12.3
 │   │   └── 15
 │   ├── sles_sap
+│   │   ├── 12 -> 12.0.1
 │   │   ├── 12.0.1
+│   │   ├── 12.1 -> 12.1.0.1
 │   │   ├── 12.1.0.1
 │   │   ├── 12.2
 │   │   └── 12.3
 │   ├── tinycore
 │   │   ├── 5
 │   │   └── boot2docker
+│   │       ├── 1.5
+│   │       └── 1.6
 │   └── ubuntu
-│       ├── 10.04
 │       ├── 11.04
 │       ├── 12.04
-│       └── 14.04
+│       ├── 14.04
+│       ├── 14.04.5
+│       └── 16.04.2
 └── solaris
     ├── oracle
     │   └── 11
