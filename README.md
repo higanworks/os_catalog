@@ -13,7 +13,7 @@ How does a human being detect platform by code ?
 names based on os-release:ID
 
 ```
-├── README.md
+.
 ├── darwin
 │   └── 10.10
 ├── linux
@@ -23,7 +23,8 @@ names based on os-release:ID
 │   ├── centos
 │   │   ├── 5
 │   │   ├── 6
-│   │   └── 7
+│   │   ├── 7
+│   │   └── 8
 │   ├── cloudlinux
 │   │   └── 6
 │   ├── coreos
@@ -33,17 +34,24 @@ names based on os-release:ID
 │   │   ├── 7
 │   │   ├── 8
 │   │   └── 9
+│   ├── fedora_server
+│   │   └── 29
+│   ├── fedora_workstation
+│   │   └── 30
 │   ├── openSUSE
 │   │   ├── 15
+│   │   ├── 15.1
 │   │   └── 42.3
 │   ├── rhel
-│   │   └── 7
+│   │   ├── 7
+│   │   └── 8
 │   ├── sles
 │   │   ├── 12
 │   │   ├── 12.1
 │   │   ├── 12.2
 │   │   ├── 12.3
-│   │   └── 15
+│   │   ├── 15
+│   │   └── 15.1
 │   ├── sles_sap
 │   │   ├── 12 -> 12.0.1
 │   │   ├── 12.0.1
@@ -61,7 +69,8 @@ names based on os-release:ID
 │       ├── 12.04
 │       ├── 14.04
 │       ├── 14.04.5
-│       └── 16.04.2
+│       ├── 16.04.2
+│       └── 18.04.1
 └── solaris
     ├── oracle
     │   └── 11
