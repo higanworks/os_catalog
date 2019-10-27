@@ -16,7 +16,6 @@ names based on os-release:ID
 .
 ├── darwin
 │   └── 10.10
-│       └── usr
 ├── linux
 │   ├── amzn
 │   │   ├── 2014.09
@@ -63,6 +62,8 @@ names based on os-release:ID
 │   ├── tinycore
 │   │   ├── 5
 │   │   └── boot2docker
+│   │       ├── 1.5
+│   │       └── 1.6
 │   └── ubuntu
 │       ├── 11.04
 │       ├── 12.04
@@ -70,7 +71,6 @@ names based on os-release:ID
 │       ├── 14.04.5
 │       ├── 16.04.2
 │       └── 18.04.1
-├── README.md
 └── solaris
     ├── oracle
     │   └── 11
