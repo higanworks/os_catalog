@@ -38,7 +38,8 @@ names based on os-release:ID
 │   │   └── 29
 │   ├── fedora_workstation
 │   │   ├── 30
-│   │   └── 31
+│   │   ├── 31
+│   │   └── 32
 │   ├── openSUSE
 │   │   ├── 15
 │   │   ├── 15.1
