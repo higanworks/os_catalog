@@ -40,6 +40,8 @@ names based on os-release:ID
 │   │   ├── 30
 │   │   ├── 31
 │   │   └── 32
+│   ├── linuxmint
+│   │   └── 20
 │   ├── openSUSE
 │   │   ├── 15
 │   │   ├── 15.1
@@ -73,7 +75,8 @@ names based on os-release:ID
 │       ├── 14.04
 │       ├── 14.04.5
 │       ├── 16.04.2
-│       └── 18.04.1
+│       ├── 18.04.1
+│       └── 20.04.1
 └── solaris
     ├── oracle
     │   └── 11
