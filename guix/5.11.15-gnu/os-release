@@ -1,0 +1,8 @@
+NAME=GNU Guix
+ID=guix
+PRETTY-NAME=GNU Guix System
+VERSION=5.11.15-gnu
+HOME_URL=https://guix.gnu.org
+SUPPORT_URL=https://guix.gnu.org/help/
+DEFAULT_HOSTNAME=guix
+SYSEXT_LEVEL=1
